@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">I'm a 14 year old Software Engineer and Content Creator.</h4>
+<h4 align="center">I'm a 15 year old Software Engineer and Content Creator.</h4>
 
 ###
 
@@ -43,5 +43,9 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/DenizBATMaker/DenizBATMaker/output/snake.svg" alt="Snake animation" />
 
 ###
